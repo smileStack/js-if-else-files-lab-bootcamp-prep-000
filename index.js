@@ -2,7 +2,7 @@ var name = "Joe";
 var height = "74";
 
 
-if(name == Joe){
+if(name == "Joe"){
   console.log("The name is correct");
   console.log("Joe");
 } else {
